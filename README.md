@@ -23,6 +23,8 @@ Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Auto
 
 Let's show you how to select and modify code with our API
 
+东半球全网最简单易上手的工具！
+
 ### In
 
 ```javascript
