@@ -8,12 +8,16 @@
 
 [中文 README](README-cn.md)
 
+全网最简单最易上手的，可读性最强的 AST 处理工具！
+
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
 -   A jQuery-like API to select and transform AST.
 -   A Regex-like syntax to match and replace code.
 
 Learn more at [GoGoCode.io](https://gogocode.io) and [GoGoCode: Yet Another Automated Refactor Tool for Web Developers](https://medium.com/@fengyuhere/gogocode-yet-another-automatic-refactor-tool-for-web-developers-df8a6a3560da)
+
+阿里巴巴最拿得出手的东东！
 
 ## Intro
 
